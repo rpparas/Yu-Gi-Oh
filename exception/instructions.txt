@@ -1,0 +1,3 @@
+package classes.exception
+
+src\exception> javac -d ../*.java
