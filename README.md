@@ -9,3 +9,9 @@ TBA
 # Copyright
 
 Konami owns the copyright of Yu-Gi-Oh. It's always fun seeing their company during Comic Con and even getting to play with their reps.
+
+# Team
+
+[LinkedIn: Rommel Paras](https://www.linkedin.com/in/rommelparas/)
+
+[LinkedIn: Jaclyn Kline Torres-Meguillo](https://www.linkedin.com/in/jaclyn-kline-meguillo-077a40a7/)
